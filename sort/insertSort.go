@@ -58,4 +58,22 @@ failure-domain.beta.kubernetes.io/zone=hc-central1-a,
 
 kubernetes.io/hostname=kubernetes-minion-9vlv
 
-kubectl label nodes 10.10.101.83 failure-domain.beta.kubernetes.io/region=hc-central1 failure-domain.beta.kubernetes.io/zone=hc-central1-a
+kubectl label nodes 10.10.101.83 failure-domain.beta.kubernetes.io/region=hc failure-domain.beta.kubernetes.io/zone=hc-aasd --overwrite
+kubectl label nodes 10.10.101.84 failure-domain.beta.kubernetes.io/region=hc failure-domain.beta.kubernetes.io/zone=hc-aasd --overwrite
+
+kubectl label nodes 10.10.101.85 failure-domain.beta.kubernetes.io/region=hc failure-domain.beta.kubernetes.io/zone=hc-bvvvv --overwrite
+kubectl label nodes 10.10.101.86 failure-domain.beta.kubernetes.io/region=hc failure-domain.beta.kubernetes.io/zone=hc-bvvvv --overwrite
+
+
+kubectl label nodes 10.10.101.83 failure-domain.beta.kubernetes.io/region -
+kubectl label nodes 10.10.101.84 failure-domain.beta.kubernetes.io/region -
+                                                                         
+kubectl label nodes 10.10.101.85 failure-domain.beta.kubernetes.io/region -
+kubectl label nodes 10.10.101.86 failure-domain.beta.kubernetes.io/region -
+
+
+kubectl label nodes 10.10.101.83 failure-domain.beta.kubernetes.io/zone -
+kubectl label nodes 10.10.101.84 failure-domain.beta.kubernetes.io/zone -
+                                                                         
+kubectl label nodes 10.10.101.85 failure-domain.beta.kubernetes.io/zone -
+kubectl label nodes 10.10.101.86 failure-domain.beta.kubernetes.io/zone -
