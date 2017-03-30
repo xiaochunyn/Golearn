@@ -10,7 +10,7 @@ func main() {
 }
 
 func partition(a []int, left, right int) int {
-	fmt.Printf("%d,  %d *** \n", left, right)
+
 	storeIndex := left
 	pivot := a[right]
 
@@ -25,7 +25,7 @@ func partition(a []int, left, right int) int {
 }
 
 func quicSort(a []int, left, right int) {
-	fmt.Printf("%d,  %d \n", left, right)
+
 	if left > right {
 		return
 	}
@@ -36,6 +36,13 @@ func quicSort(a []int, left, right int) {
 }
 
 /**
+基本思想：
+	1. 在数据集中，选择一个元素作为基准(pivot)
+	2. 所有小于基准的元素都移到基准的左边，所有大于基准的都移到基准右边
+		这个操作成为分区操作(partition),分区操作之后，
+		基准元素所处的位置就是最终排序后他的位置
+	3. 对基准左边和右边的两个子集，不断重复第一步和第二步，
+		直到所有子集只剩下一个元素为止
 
 实例分析
 举例来说，现有数组 arr = [3,7,8,5,2,1,9,5,4]，分区可以分解成以下步骤：
