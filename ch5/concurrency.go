@@ -6,7 +6,7 @@ import (
 )
 
 var c chan int
-
+// fjdksf;ads
 func ready(w string, sec int) {
 	time.Sleep(time.Duration(sec) * time.Second)
 	fmt.Println(w, "is ready !")
