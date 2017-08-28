@@ -3,25 +3,29 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../k8s.io" />
       <root url="file://$PROJECT_DIR$/../Kubernetes" />
-      <root url="file://$PROJECT_DIR$/../Canal - 副本" />
       <root url="file://$PROJECT_DIR$/../github.com" />
       <root url="file://$PROJECT_DIR$/../Test" />
       <root url="file://$PROJECT_DIR$/../golang.org" />
       <root url="file://$PROJECT_DIR$/../Golearning" />
       <root url="file://$PROJECT_DIR$/../runv" />
+      <root url="file://$PROJECT_DIR$/../Canal - 副本" />
       <root url="file://$PROJECT_DIR$/../Canal" />
+      <root url="file://$PROJECT_DIR$/../Canal-1" />
+      <root url="file://$PROJECT_DIR$/../Canal - 副本 (2)" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="file://$PROJECT_DIR$/../k8s.io" />
       <root url="file://$PROJECT_DIR$/../Kubernetes" />
-      <root url="file://$PROJECT_DIR$/../Canal - 副本" />
       <root url="file://$PROJECT_DIR$/../github.com" />
       <root url="file://$PROJECT_DIR$/../Test" />
       <root url="file://$PROJECT_DIR$/../golang.org" />
       <root url="file://$PROJECT_DIR$/../Golearning" />
       <root url="file://$PROJECT_DIR$/../runv" />
+      <root url="file://$PROJECT_DIR$/../Canal - 副本" />
       <root url="file://$PROJECT_DIR$/../Canal" />
+      <root url="file://$PROJECT_DIR$/../Canal-1" />
+      <root url="file://$PROJECT_DIR$/../Canal - 副本 (2)" />
     </SOURCES>
     <excluded>
       <root url="file://$PROJECT_DIR$" />
