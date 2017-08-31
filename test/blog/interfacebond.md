@@ -1,7 +1,9 @@
+## Linux 网卡bond的七种模式
+
 ###什么是bond
    网卡bond是通过多张网卡绑定为一个逻辑网卡，实现本地网卡的冗余，带宽扩容和负载均衡，在生产场景中是一种常用的技术。Kernels 2.4.12及以后的版本均供bonding模块，以前的版本可以通过patch实现。可以通过以下命令确定内核是否支持 bonding：
 ```
-[root@lixin network-scripts]#cat /boot/config-2.6.32-573.el6.x86_64 |grep -i bonding
+#cat /boot/config-2.6.32-573.el6.x86_64 |grep -i bonding
 CONFIG_BONDING=m
 ```
 
