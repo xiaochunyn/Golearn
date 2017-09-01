@@ -178,7 +178,8 @@ ifenslave bond2 eth4 eth5
 ifenslave bond3 eth6 eth7
 ```
 
-###参考
+### 参考
+
 http://lixin15.blog.51cto.com/3845983/1769338
 
 http://linuxnote.blog.51cto.com/9876511/1680315
