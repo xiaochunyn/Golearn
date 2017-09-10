@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59eacad1-5e3c-4f51-a722-0317b74d4cf9" name="Default" comment="Add interfacefunction&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/array/outofrange.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/interface/interfacefunction.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__Golearn_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__Golearn_.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__Golearn_.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interview/neteasy/reverseadding.go" afterPath="$PROJECT_DIR$/interview/neteasy/reverseadding.go" />
     </list>
     <list id="5f47bd9f-b557-41f8-8363-92669bfab1c9" name="Rejected commit: Default" comment="Add runcmd&#10;&#10;some methods to run command in terminal" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,23 +21,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="effective_go.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/effective_go.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="runcmd.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/io/runcmd.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1911">
+            <state relative-caret-position="0">
               <caret line="99" column="42" lean-forward="false" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
               <folding />
             </state>
@@ -47,7 +34,7 @@
       <file leaf-file-name="channel.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/concurrency/channel.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
+            <state relative-caret-position="0">
               <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
@@ -59,7 +46,7 @@
       <file leaf-file-name="synchronizedMap.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/concurrency/syncmap/synchronizedMap.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
+            <state relative-caret-position="0">
               <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
               <folding>
                 <element signature="e#14#27#0" expanded="true" />
@@ -68,12 +55,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="outofrange.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="outofrange.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/array/outofrange.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverseadding.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/interview/neteasy/reverseadding.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,8 +80,8 @@
       <file leaf-file-name="interfacefunction.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/interface/interfacefunction.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -93,7 +92,7 @@
       <file leaf-file-name="synchronizedMap_test.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/concurrency/syncmap/synchronizedMap_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="0">
               <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="e#14#42#0" expanded="true" />
@@ -105,7 +104,7 @@
       <file leaf-file-name="waigroup.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/concurrency/waigroup.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
+            <state relative-caret-position="0">
               <caret line="39" column="42" lean-forward="false" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
               <folding>
                 <element signature="e#14#39#0" expanded="true" />
@@ -117,7 +116,7 @@
       <file leaf-file-name="concurrency.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch5/concurrency.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="0">
               <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
               <folding />
             </state>
@@ -127,7 +126,7 @@
       <file leaf-file-name="writefile.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/file/writefile.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
+            <state relative-caret-position="0">
               <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding>
                 <element signature="e#14#67#0" expanded="true" />
@@ -173,16 +172,17 @@
         <option value="$PROJECT_DIR$/test/concurrency/synchronizedMap.go" />
         <option value="$PROJECT_DIR$/test/concurrency/syncmap/synchronizedMap.go" />
         <option value="$PROJECT_DIR$/test/concurrency/syncmap/synchronizedMap_test.go" />
-        <option value="$PROJECT_DIR$/test/array/outofrange.go" />
         <option value="$PROJECT_DIR$/test/interface/interfacefunction.go" />
+        <option value="$PROJECT_DIR$/test/array/outofrange.go" />
+        <option value="$PROJECT_DIR$/interview/neteasy/reverseadding.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -205,19 +205,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Golearn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Golearn" />
@@ -364,7 +353,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch5" />
+              <option name="myItemId" value="interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neteasy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,6 +365,7 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -392,13 +386,7 @@
       <recent name="D:\workspace\gospace\src\Golearn" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Application.Build interfacefunction.go and run">
-    <configuration default="false" name="go run pointeraspara.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
-      <module name="Golearn" />
-      <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/test/pointer/pointeraspara.go" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Go Single File.go run reverseadding.go">
     <configuration default="false" name="Build channel.go and run" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="Golearn" />
       <working_directory value="$PROJECT_DIR$" />
@@ -424,6 +412,12 @@
       <working_directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/test/interface/interfacefunction.go" />
       <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run reverseadding.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="Golearn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/interview/neteasy/reverseadding.go" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -651,19 +645,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Single File.go run pointeraspara.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Application.Build channel.go and run" />
-      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run waigroup.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Application.Build outofrange.go and run" />
-      <item index="4" class="java.lang.String" itemvalue="Go Application.Build interfacefunction.go and run" />
+      <item index="0" class="java.lang.String" itemvalue="Go Application.Build channel.go and run" />
+      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run waigroup.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Application.Build outofrange.go and run" />
+      <item index="3" class="java.lang.String" itemvalue="Go Application.Build interfacefunction.go and run" />
+      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run reverseadding.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Application.Build interfacefunction.go and run" />
-        <item index="1" class="java.lang.String" itemvalue="Go Application.Build outofrange.go and run" />
-        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run waigroup.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Application.Build channel.go and run" />
-        <item index="4" class="java.lang.String" itemvalue="Go Single File.go run pointeraspara.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run reverseadding.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Application.Build interfacefunction.go and run" />
+        <item index="2" class="java.lang.String" itemvalue="Go Application.Build outofrange.go and run" />
+        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run waigroup.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Application.Build channel.go and run" />
       </list>
     </recent_temporary>
   </component>
@@ -716,11 +710,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503316903879</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Reverse n and output the sum of n and reversed n">
+      <created>1505011665445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1505011665445</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -731,13 +732,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30877572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16065574" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30319735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12679163" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1652452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16792738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -782,7 +783,8 @@
     <MESSAGE value="add a new example" />
     <MESSAGE value="Add synchronizedMap&#10;&#10;It is concurrency safe" />
     <MESSAGE value="Add interfacefunction&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add interfacefunction&#10;" />
+    <MESSAGE value="Reverse n and output the sum of n and reversed n" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse n and output the sum of n and reversed n" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -791,16 +793,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/concurrency/syncmap/synchronizedMap_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/concurrency/waigroup.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
@@ -819,13 +811,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/soft/go/src/os/exec/exec.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2688">
-          <caret line="128" column="5" lean-forward="false" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/soft/go/src/os/exec/exec.go" />
     <entry file="file://$PROJECT_DIR$/test/file/writefile.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
@@ -843,17 +829,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/effective_go.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/effective_go.md" />
     <entry file="file://$PROJECT_DIR$/test/io/runcmd.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2079">
@@ -910,13 +886,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/soft/go/src/os/exec/exec.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2688">
-          <caret line="128" column="5" lean-forward="false" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/soft/go/src/os/exec/exec.go" />
     <entry file="file://$PROJECT_DIR$/test/file/writefile.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
@@ -927,26 +897,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/io/gitpull.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gosource/strings/strings.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/io/gitpull.md" />
+    <entry file="file://$PROJECT_DIR$/gosource/strings/strings.md" />
     <entry file="file://$PROJECT_DIR$/gosource/strings/test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -954,20 +906,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/soft/go/src/strings/strings.s">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/soft/go/src/strings/strings.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8841">
-          <caret line="424" column="5" lean-forward="true" selection-start-line="424" selection-start-column="5" selection-end-line="424" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/soft/go/src/strings/strings.s" />
+    <entry file="file://D:/soft/go/src/strings/strings.go" />
     <entry file="file://$PROJECT_DIR$/test/file/createfile.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1000,26 +940,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gosource/strings/strings.md.go" />
-    <entry file="file://$PROJECT_DIR$/test/io/gitpull.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gosource/strings/strings.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/io/gitpull.md" />
+    <entry file="file://$PROJECT_DIR$/gosource/strings/strings.md" />
     <entry file="file://$PROJECT_DIR$/gosource/strings/test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1027,43 +949,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/soft/go/src/strings/strings.s">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/soft/go/src/strings/strings.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8841">
-          <caret line="424" column="5" lean-forward="false" selection-start-line="424" selection-start-column="5" selection-end-line="424" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/soft/go/src/strings/strings.s" />
+    <entry file="file://D:/soft/go/src/strings/strings.go" />
     <entry file="file://$PROJECT_DIR$/test1.txt" />
     <entry file="file://$PROJECT_DIR$/test.txt" />
-    <entry file="file://D:/soft/go/src/syscall/syscall_windows.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="251" column="5" lean-forward="false" selection-start-line="251" selection-start-column="5" selection-end-line="251" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/soft/go/src/os/file_windows.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="84" column="22" lean-forward="true" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/soft/go/src/io/ioutil/ioutil.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="76" column="19" lean-forward="true" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/soft/go/src/syscall/syscall_windows.go" />
+    <entry file="file://D:/soft/go/src/os/file_windows.go" />
+    <entry file="file://D:/soft/go/src/io/ioutil/ioutil.go" />
     <entry file="file://$PROJECT_DIR$/test/file/createfile.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -1086,28 +978,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/soft/go/src/os/exec/exec.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2436">
-          <caret line="128" column="5" lean-forward="false" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/soft/go/src/os/exec/exec.go" />
     <entry file="file://$PROJECT_DIR$/test/io/pwd.go" />
     <entry file="file://$PROJECT_DIR$/effective_go.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/io/runcmd.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1911">
+        <state relative-caret-position="0">
           <caret line="99" column="42" lean-forward="false" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
           <folding />
         </state>
@@ -1115,7 +998,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch5/concurrency.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="0">
           <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
           <folding />
         </state>
@@ -1123,7 +1006,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/file/writefile.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
+        <state relative-caret-position="0">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
             <element signature="e#14#67#0" expanded="true" />
@@ -1133,7 +1016,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/concurrency/waigroup.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
+        <state relative-caret-position="0">
           <caret line="39" column="42" lean-forward="false" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
           <folding>
             <element signature="e#14#39#0" expanded="true" />
@@ -1143,7 +1026,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/concurrency/channel.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
+        <state relative-caret-position="0">
           <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
@@ -1153,7 +1036,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/concurrency/syncmap/synchronizedMap_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="0">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#14#42#0" expanded="true" />
@@ -1163,7 +1046,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/concurrency/syncmap/synchronizedMap.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
+        <state relative-caret-position="0">
           <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
           <folding>
             <element signature="e#14#27#0" expanded="true" />
@@ -1173,8 +1056,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/interface/interfacefunction.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
@@ -1183,9 +1066,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/array/outofrange.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/neteasy/reverseadding.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
