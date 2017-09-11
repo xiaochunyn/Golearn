@@ -22,3 +22,17 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+*.pyc
+/output*/
+/src/service/version/version.go
+Build
+.idea/*
+.vscode/*
+.idea/vcs.xml
+
+*.o
+*.a
+*.so
+*.iml
+vendor/src/k8s.io
