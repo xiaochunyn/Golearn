@@ -74,6 +74,6 @@ kubectl label nodes 10.10.101.86 failure-domain.beta.kubernetes.io/region -
 
 kubectl label nodes 10.10.101.83 failure-domain.beta.kubernetes.io/zone -
 kubectl label nodes 10.10.101.84 failure-domain.beta.kubernetes.io/zone -
-                                                                         
+
 kubectl label nodes 10.10.101.85 failure-domain.beta.kubernetes.io/zone -
 kubectl label nodes 10.10.101.86 failure-domain.beta.kubernetes.io/zone -

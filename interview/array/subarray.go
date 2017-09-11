@@ -5,6 +5,12 @@ import (
 )
 
 /**
+Leetcode 53. Maximum Subarray
+Find the contiguous subarray within an array (containing at least one number) which has the largest sum.
+
+For example, given the array [-2,1,-3,4,-1,2,1,-5,4],
+the contiguous subarray [4,-1,2,1] has the largest sum = 6.
+
 滴滴2017秋招
 [编程题] 连续最大和
 
@@ -33,24 +39,28 @@ func main() {
 		fmt.Scan(&a[i])
 	}
 
-	fmt.Println(maxSubSum(a, n))
+	fmt.Println(maxSubArray(a))
 }
 
-func maxSubSum(a []int, n int) int {
-	var sum int
-	var result int
+func maxSubArray(a []int) int {
+	tmp := 0
+	max := -4096
 
-	for i := 0; i < n; i++ {
-		if sum <= 0 {
-			sum = a[i]
+	if len(a) == 1 {
+		return a[0]
+	}
+
+	for i := 0; i < len(a); i++ {
+		if tmp <= 0 {
+			tmp = a[i]
 		} else {
-			sum += a[i]
+			tmp += a[i]
 		}
-		if sum > result {
-			result = sum
+		if tmp > max {
+			max = tmp
 		}
 	}
-	return result
+	return max
 }
 
 /**
@@ -66,5 +76,8 @@ testcase:
 -2 1 -3 4 -1 2 1 -5 4
 
 out: 6
-
+------------
+2
+-2, -1
+-1
 */

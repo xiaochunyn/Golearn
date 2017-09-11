@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Golearn&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Kubernetes" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../projectcalico" />
+      <root url="file://$PROJECT_DIR$/../Canal - 副本" />
+      <root url="file://$PROJECT_DIR$/../Golearning" />
+      <root url="file://$PROJECT_DIR$/../runv" />
+      <root url="file://$PROJECT_DIR$/../Canal" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Kubernetes" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../projectcalico" />
+      <root url="file://$PROJECT_DIR$/../Canal - 副本" />
+      <root url="file://$PROJECT_DIR$/../Golearning" />
+      <root url="file://$PROJECT_DIR$/../runv" />
+      <root url="file://$PROJECT_DIR$/../Canal" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
